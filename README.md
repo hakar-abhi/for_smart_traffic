@@ -4,7 +4,7 @@ So, we opted to bring Artifical Intelligence into our system. Optimizing traffic
 
 However, we could not achieve traffic video monitoring and surveillance systems's data, so we opted to make our own video recordings and custom labelling the images. We tried this but the loss of our system could not be maintained at a desirable value.  So, we thought just to make a demo model. Then we implemented the COCO dataset and developed code that just identified the vehicle class we wanted. We custmozied YOLO algorithm as per our needs and trained our model. The training loss was at a level that our control system could digest. The validation loss was also at a convining level. Then we tested our system with the images from our raods, the detections were good, however if only we could train the model with our own own dataset, the detections would be much better. And finally the the traffic lights control was as we expected.
 
-This repo contains just the AI nad image processing segment of our project.
+This repo contains just the AI nad image processing segment of our project. This video depicts not the exact traffic scenario in Nepal roads but just a busy Asan Galli. The image file is added separately illustrating traffic detections.
 
 # busy_asan
 
